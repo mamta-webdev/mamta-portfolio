@@ -1,4 +1,5 @@
 🌐 Mamta Portfolio
+Welcome to my personal portfolio website! 🚀
 
 A modern, responsive portfolio built with React and Vite to showcase my projects, skills, and experience as a Frontend Developer.
 
@@ -24,7 +25,11 @@ https://mamta-portfolio-g0vx.onrender.com
 - Contact form
 
 ## 📬 Connect with Me
+If you'd like to collaborate or discuss opportunities, feel free to reach out!
+📧 Email: maahiarya625@gmail.com
 
-- Portfolio: https://mamta-portfolio-g0vx.onrender.com
-- GitHub: https://github.com/mamta-webdev
-- Email: maahiarya625@gmail.com
+🌐 Portfolio:
+https://mamta-portfolio-g0vx.onrender.com
+
+🐙 GitHub:
+https://github.com/mamta-webdev
